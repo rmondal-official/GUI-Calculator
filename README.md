@@ -1,7 +1,7 @@
 ![GUI_Calculator_template](https://github.com/rmondal-official/GUI-Calculator/assets/78198704/36a624b8-e6a7-4580-8cd8-08547f02e98d)
 # Requirement
 ```
-pip install tkinter
+pip install tk
 ```
 _If you want to use different themes, then_
 ```
