@@ -9,3 +9,7 @@ pip install ttkthemes
 ```
 # End Words
 This GUI calculator is having extremly basic design, usefull for beginner to try making beautifull, interesting project using **tkinter** library of **Python**. You may add more color or change the layout desing for better looking 🙂
+<div dir="rtl">
+Creation Date:-19/11/2020 <br>
+Created in PyCharm & VS Code
+<div/>
