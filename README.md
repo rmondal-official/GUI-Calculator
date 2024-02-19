@@ -48,7 +48,7 @@ This repository houses the Python code for a delightful and easy-to-use GUI calc
 2. Run the main Python script:
 
    ```bash
-   python calculator.py
+   python GUI_Calculator.py
    ```
 
 This will launch the GUI calculator on your screen.
