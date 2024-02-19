@@ -11,7 +11,7 @@ This repository houses the Python code for a delightful and easy-to-use GUI calc
 - **Clear input and output:** Easily enter calculations and view results in a well-formatted manner.
 - **Error handling:** Gracefully handle invalid input and potential calculation errors.
 
-#  Prerequisites:
+#  Prerequisites
 
 - Python 3.10 (I hope it would run on newer versions)
 - Tkinter library (usually included with Python installations)
