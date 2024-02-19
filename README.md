@@ -65,7 +65,7 @@ The calculator has a straightforward interface. Enter your calculations using:
 
 # Customization
 
-Feel free to experiment with the code in `calculator.py` to personalize the look and feel of the calculator. However, exercise caution, as modifying core logic might affect functionality.
+Feel free to experiment with the code in `GUI_Calculator.py` to personalize the look and feel of the calculator. However, exercise caution, as modifying core logic might affect functionality.
 
 # Contributions
 
