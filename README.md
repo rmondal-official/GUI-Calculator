@@ -71,6 +71,6 @@ Feel free to experiment with the code in `GUI_Calculator.py` to personalize the 
 
 I encourage you to contribute to this project! Share your ideas, improvements, improving GUI design or bug reports by opening an issue or pull request.
 
-# License
 
-This project is licensed under the MIT License: [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/).
+      
+![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
