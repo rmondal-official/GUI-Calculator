@@ -16,7 +16,7 @@ This repository houses the Python code for a delightful and easy-to-use GUI calc
 - Python 3.10 (I hope it would run on newer versions)
 - Tkinter library (usually included with Python installations)
 
-**Installation:**
+# Installation
 
 1. Clone or download the repository:
 
